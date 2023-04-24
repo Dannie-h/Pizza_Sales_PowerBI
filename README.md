@@ -14,3 +14,5 @@
 •	Removing XL and XXL sizes from the menu could increase overall revenue as they generated a relatively small percentage of the total revenue.
 
 •	Running promotions during autumn-winter months could increase sales. Happy-hour deals in the evening could increase sales further during this period.
+
+![dashboard](Pizza_Sales.jpg)
